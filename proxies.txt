@@ -1,0 +1,2 @@
+past proxies here, 1 per line
+host:port:user:pass
